@@ -15,7 +15,10 @@
 - JavaScript
 
 ## 📸 لقطات من المشروع
-<img width="672" height="692" alt="image" src="https://github.com/user-attachments/assets/83d04f12-86bf-43c6-9505-3ec1a8d96cc2" />
+<h3 align="center">📸 لقطات من المشروع</h3>
+<p align="center">
+  <img src=<img width="672" height="692" alt="image" src="https://github.com/user-attachments/assets/83d04f12-86bf-43c6-9505-3ec1a8d96cc2" /> alt="Asmak El Bahar Preview" width="500">
+</p>
 
 ](https://ahmedalshref054-lab.github.io/Asmak-Seafood/)
 
