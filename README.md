@@ -24,7 +24,6 @@
   <a href="https://ahmedalshref054-lab.github.io/Asmak-Seafood/">🔗 اضغط هنا لزيارة الموقع مباشرة</a>
 </p>
 
-](https://ahmedalshref054-lab.github.io/Asmak-Seafood/)
 
 ## 📞 تواصل معنا
 01069086119
